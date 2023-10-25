@@ -7,5 +7,34 @@ web1
 <body>
  <h1> Halo, Saya dova nim 2105101105 </h1>
 <P>ini latihan</P>
+<style>
+  body {
+      background-color: #a8b440; /* Atur warna latar belakang */
+  }
+</style>
+<img src="unipma.png" height="300" 	width="300" alt=“Logo UNIPMA" />
+
+
+<p>Daftar Prodi UNIPMA dapat diakses <a href= "http://unipma.ac.id/akademik/prodi.html" > di sini </a>
+</p>
+<p>Daftar Prodi UNIPMA dapat diakses <a href= "/akademik/prodi.html" > di sini </a>
+</p>
+<div class=“header” >
+  <h1>SELAMAT DATANG DI WEBKU</h1>
+</div>
+<div class=“navigasi”>
+  <a href=“#”> HOME </a>
+  <a href=“#”> PROFIL </a>
+  <a href=“#”> CONTACT </a>
+</div>
+<div class=“main”>
+  <p>Bagian ini adalah isi Web</p> </br>
+  <img src=“poster.png”>
+</div>
+<div class=“footer”>
+  <p> copyright © 2021 Web Programming UNIPMA </p>
+</div>
+
+
 </body>
 </html>
